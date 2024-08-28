@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a Senior Statistical Programmer/Analyst for pharama industry and clinical research. I use GitHub for a couple of work-related and hobby projects. My main languages are R and SAS.
+I am a Senior Statistical Programmer/Analyst working for for pharama industry and clinical research. I use GitHub for a couple of work-related and hobby projects. My main languages are R and SAS.
 
 <!--
 **hamzarahal/hamzarahal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
